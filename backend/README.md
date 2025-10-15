@@ -80,7 +80,7 @@ Run the project with:
 **Using npm:**
 
 ```bash
-npm start dev
+npm run dev
 ```
 
 ### Testing
